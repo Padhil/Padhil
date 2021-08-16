@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Padhil
+- 👋 Hi, I’m @Padhil Riyas
 - 👀 I’m interested in ...Design Engineering 
 - 🌱 I’m currently learning ... Python 
 - 💞️ I’m looking to collaborate on ... TCS
